@@ -11,6 +11,7 @@
 // }
 
 // run code through arrow funtion
+
 const pow=(x,n)=>{
     if (n==1){
         return x
