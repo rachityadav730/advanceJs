@@ -3,7 +3,7 @@ try{
     let b =3
     c= a+b
     console.log("error not defned",c)
-    console.log("valuescheck",dfsf)
+    console.log("error remove in copy_main_branch",dfsf)
 }catch{
     console.log("varible is not defined")
 }
